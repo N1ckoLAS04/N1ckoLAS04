@@ -1,4 +1,7 @@
 ### Hi there 👋
+# Hola!!
+## Soy Nico
+*lucas *tomi *alvaro
 
 <!--
 **N1ckoLAS04/N1ckoLAS04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
